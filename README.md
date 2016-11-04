@@ -1,6 +1,6 @@
 # BackboneJS
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5KTTF"><a href="//imgur.com/5KTTF"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="http://i.imgur.com/GZZY6n2.jpg" />
 
 - https://github.com/jashkenas/backbone/
 - https://www.npmjs.com/package/backbone
